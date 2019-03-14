@@ -1,0 +1,116 @@
+body{
+	margin: 0;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+	color: #40514E;
+}
+#hello-text{
+	font-color: #40514E;
+	width: 50%;
+	margin: auto;
+	margin-bottom: 80px;
+}
+#hot-wings{
+	color: #11999E;
+}
+#face{
+	border-radius: 50%;
+	margin-top: 50px;
+}
+#computar{
+	border-radius: 50%;
+	width: 25%;float: left;
+	margin-right: 30px;
+	
+}
+.chilly{
+	border-radius: 50%;
+	width: 25%;float: right;
+	margin-left: 30px;
+}
+h1{
+	font-size: 5.625rem;
+	margin-top: 50px auto 0 auto;
+	font-family: 'Sacramento', cursive;
+	color: #66BFBF;
+	
+}
+h2{
+	font-size: 2.5rem;
+	font-weight: normal;
+	line-height: 2;
+	color: #66BFBF;
+}
+h3{
+	color: #66BFBF;
+}
+.Top-container{
+	padding-top: 70px;
+	background-color: #EAF6F6;
+}
+.MiddleC{
+	
+}
+.BottomC{
+	
+}
+.skill-row{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+}
+#bottom-cloud
+{
+	position: absolute;
+	left: 250px;
+}
+#top-cloud
+{
+	position: absolute;
+	right: 250px;
+}
+.butn {
+  background: #0b82d1;
+  background-image: -webkit-linear-gradient(top, #0b82d1, #03111a);
+  background-image: -moz-linear-gradient(top, #0b82d1, #03111a);
+  background-image: -ms-linear-gradient(top, #0b82d1, #03111a);
+  background-image: -o-linear-gradient(top, #0b82d1, #03111a);
+  background-image: linear-gradient(to bottom, #0b82d1, #03111a);
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  height: 25px;
+  margin: 20px 610px 80px 610px;
+
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #fa0838);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #fa0838);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #fa0838);
+  background-image: -o-linear-gradient(top, #3cb0fd, #fa0838);
+  background-image: linear-gradient(to bottom, #3cb0fd, #fa0838);
+  text-decoration: none;
+}
+.bottom-container{
+	height: 200px;
+	background-color: #66BFBF;
+	text-align: center;
+	padding-top: 20px;
+	padding-left: 50px;
+}
+
+.footer-link{
+	padding-top: 40px;
+	padding-right: 50px;
+	text-align: center;
+}
+#atC{
+	padding-right: 50px;
+}
